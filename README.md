@@ -1,6 +1,6 @@
 tutum/haproxy
 =============
-**This image will be deprecated soon. Please use dockercloud/hello-world instead:**
+**This image will be deprecated soon. Please use dockercloud/haproxy instead:**
 https://github.com/docker/dockercloud-haproxy
 
 https://hub.docker.com/r/dockercloud/haproxy/
